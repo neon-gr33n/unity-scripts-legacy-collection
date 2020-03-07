@@ -1,2 +1,2 @@
 # Unity Scripts Legacy Collection - Purrception
-This is a collection of scripts that i have made over the years (and is still growing even now) You might even find some of these resources to be useful to you and for your own projects, commercial or otherwise (please do refer to the LICENSE.md for additional information) I do hope that these resources are of use to you, and please, have a wonderful day.
+This is a collection of scripts that i have made over the years (and is still growing even now) You might even find some of these resources to be useful to you and for your own projects, commercial or otherwise (please do refer to the LICENSE for additional information) I do hope that these resources are of use to you, and please, have a wonderful day.
